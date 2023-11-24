@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![image](https://github.com/gowshik14/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/149985969/59340c3d-8c7e-4c90-8c09-235a8d9324fd)
+![image](https://github.com/gowshik14/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/149985969/1fdca551-6c91-4e2e-b483-409a0f72f376)
 
  
  ## RESULT
